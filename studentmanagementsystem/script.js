@@ -1,4 +1,3 @@
-
 function addStudent() {
     var name = document.getElementById("name").value;
     var roll = document.getElementById("roll").value;

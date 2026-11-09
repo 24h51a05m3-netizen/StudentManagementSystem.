@@ -1,4 +1,3 @@
-
 function addBook() {
     var book = document.getElementById("book").value;
     var student = document.getElementById("student").value;
